@@ -1,0 +1,285 @@
+#dive{
+    height: 40px;
+    width: auto;
+    border-color: blanchedalmond;
+    box-shadow: 3px 5px 10px rgb(99, 92, 84);
+  
+   
+   
+}
+
+#foodpanda{
+    color: rgb(172, 51, 91);
+   
+    font-size: 25px;
+   padding-top: 100px;
+   text-align: center;
+   
+}
+#login{
+   color: rgb(158, 44, 82);
+    width: 90px;
+    border-radius: 10px;
+    text-align: center;
+    height: 30px;
+   float: right;
+    border-color: rgb(153, 41, 79);
+
+}
+#signup{
+   background:rgb(179, 64, 102);
+    width: 90px;
+    border-radius: 10px;
+    text-align: center;
+    height: 30px;
+ color: white;
+    border-color: rgb(153, 41, 79);
+    float: right;
+}
+
+#firstpara
+
+
+{
+font-size:50px;
+
+}
+#img1{
+    float: right;
+    width: 550px;
+    height: 400px;
+}
+#form
+{
+width: 500px;
+height: 40px;
+}
+#button{
+    height:40px ;
+
+    background-color: rgb(209, 60, 110);
+}
+#secondpara
+{
+font-size: 35px;
+}
+#img2{
+    height: 550px;
+    width: 1300px;
+}
+#box{
+    border: solid rgb(0, 0, 0);
+    width: 550px;
+    padding: 20px;
+    float: center;
+    border-radius: 30px;
+    box-shadow: 2px 5px 10px black;
+}
+#button2{
+
+    background-color: rgb(204, 83, 123);
+    width: 100px;
+    border-radius: 10px;
+    text-align: center;
+    height: 50px;
+}
+#table{
+    
+    border-radius: 40px ;
+    border: solid black;
+    padding: 20px;
+    
+}
+#div3{
+    background-color: palevioletred;
+    border: solid rgb(6, 6, 6);
+    border-radius:20px;
+    padding: 20px;
+    box-shadow: 2px 5px 10px black;
+}
+
+#img3{
+    float: left;
+    width: 150px;
+}
+#parag{
+color: white;
+font-size: 20px;
+
+}
+
+#image4{
+    float: right ;
+    min-width: 100px;
+    height: 350px;
+    width: auto;
+    padding-bottom: 56px;
+}
+
+#img5{
+  height: 500px;
+  width: 1300px;
+}
+
+
+#paragrap{
+ font-size: 30px;
+ width:500px;
+ border: solid rgb(174, 174, 174);
+ padding: 10px;
+ box-shadow: 2px 5px 10px black;
+  
+}
+#getstarted{
+    background-color: rgb(204, 83, 123);
+    width: 100px;
+    border-radius: 10px;
+    text-align: center;
+    height: 50px;
+    
+   
+}
+
+#container{
+
+    padding: 90px;
+}
+#firsth{
+    font-size: 30px;
+   
+}
+
+#firstparagr{
+    font-size: 30px;
+    font-style: italic;
+
+
+}
+#sech
+{
+    font-size:30px ;
+}
+
+#secpara
+{
+   font-size: 30px;
+    font-style: italic;
+}
+
+
+#h3{
+    font-size: 26px;
+}
+
+#h4{
+    font-size: 25px;
+}
+#p4{
+    font-size: 26px;
+    font-style: italic;
+}
+
+#h5{
+    font-size: 26px;
+}
+#p5{
+    font-size: 26px;
+    font-style: italic;
+}
+#h6{
+    font-size: 26px;
+
+}
+#p6{
+    font-size: 26px;
+    font-style: italic;
+}
+
+#h7{
+
+    font-size: 26px;
+}
+
+#p7{
+    font-size: 26px;
+    font-style: italic;
+}
+#h8{
+    font-size: 26px;
+}
+#laos{
+    color: rgb(57, 42, 42);
+    font-size: 23px;
+}
+#block{
+    width: 300px;
+    height: 500px;
+   
+}
+#b{
+    font-size: 20px;
+    color: rgb(69, 68, 68);
+}
+#okdiv{
+
+
+width: 300px;
+height: 500px;
+}
+    #fdiv{
+       
+  font-size: 25px;
+        width: 300px;
+        height: 500px;
+        color: palevioletred;
+    }
+
+    #sdiv{
+       
+        font-size: 25px;
+width: 300px;
+height: 500px;
+color: palevioletred;
+    }
+
+    #tdiv{
+       
+        font-size: 25px;
+width: 300px;
+height: 500px;
+color: palevioletred;
+
+
+    }
+
+    #cr{
+        width: 90%;
+        padding: 20px;
+        margin: 100px auto;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+    #daba1{
+        width: 250px;
+        margin: 0 10px;
+        box-shadow: o o 20px 2px black;
+        transition: 1s;
+    }
+    #daba1 img{
+        display: block;
+        width: 90%;
+        border-radius: 5px;
+    }
+    #daba1 :hover
+       {
+        transform: scale(1.3);
+        z-index: 2;
+       }
+    #daba1 button{
+        width: 130px;
+        border: solid black;
+     
+        height: 30PX;
+    }
+    
